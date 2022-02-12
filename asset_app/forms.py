@@ -3,7 +3,7 @@ from wtforms import StringField, SubmitField, IntegerField, SelectField, RadioFi
 from wtforms.validators import DataRequired, ValidationError
 
 from asset_app.models import Asset
-
+# from 123dfkjsjfnwjnfjknedkjenkjngrkaf;klnrg;lknaklfnr;kgn;ksnfgldsknklnlf
 
 class AddAssetForm(FlaskForm):
 
