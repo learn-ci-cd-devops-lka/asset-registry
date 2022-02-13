@@ -4,6 +4,7 @@ from wtforms.validators import DataRequired, ValidationError
 
 from asset_app.models import Asset
 # from 123dfkjsjfnwjnfjknedkjenkjngrkaf;klnrg;lknaklfnr;kgn;ksnfgldsknklnlf
+# try 3
 # https://coon-docker-reg.ml/v2/_catalog
 
 class AddAssetForm(FlaskForm):
